@@ -1,4 +1,4 @@
-# usability-testing-framework
+# Usability Testing Framework
 
 ## Audience
 Our audience is owners of vehicles. For testing purposes, owning an Alexa isn’t a prerequisite though. 
