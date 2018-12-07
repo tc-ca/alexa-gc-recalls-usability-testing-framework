@@ -10,34 +10,34 @@ It is important to note that the audience will include both french and english s
 Our audience also includes those with disabilities.
 
 ## Plan the test
-Determine what success or failure is
+**Determine what success or failure is**
 We must determine what constitutes a passed or failed test? There are two cases that we determine is a pass.
-The user is able to find recall information for their vehicle it is a pass. 
-The user was able to determine that their vehicle does not have any recalls. 
+1. The user is able to find recall information for their vehicle it is a pass. 
+2. The user was able to determine that their vehicle does not have any recalls. 
 
 In our case if the user passes the test, how they got to the pass is important as it can lead to an improved script.
 
 A failure would be where someone thinks there isn't a recall when there is one. 
 
-Get everything you need and do a test run
-Alexa device
-Wireless hotspot 
-Audio recording device when testing non-visual interfaces
-Video recording device when testing includes the visual interface on screened Alexa devices
-Test script
-Minimum 1 facilitator and 1 note taker
+**Get everything you need and do a test run**
+* Alexa device
+* Wireless hotspot 
+* Audio recording device when testing non-visual interfaces
+* Video recording device when testing includes the visual interface on screened Alexa devices
+* Test script
+* Minimum 1 facilitator and 1 note taker
 
 Once you have everything you need, perform a test run. Make sure the Alexa device is ready to go. Make sure the hotspot works. Ensure the recording device records. 
 
-## Prepare the script
+**Prepare the script**
 Ensure you have all of the documents you’ll need during the test. In most cases once you have created it, you can reuse the same documents in future testing. 
 Since our Alexa skill is bilingual, ensure all documents are translated. 
 
-## Recruit participants
+**Recruit participants**
 There are various ways to recruit participants for user testing. 
-Family and friends outside of work
-Work colleagues
-Call for participants through social media
+* Family and friends outside of work
+* Work colleagues
+* Call for participants through social media
 
 We will require participants from both official languages. We also want to ensure that we test our skill with participants with disabilities.
 
