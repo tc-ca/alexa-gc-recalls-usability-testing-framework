@@ -11,7 +11,7 @@ Our audience also includes those with disabilities.
 
 ## Plan the test
 **Determine what success or failure is**
-We must determine what constitutes a passed or failed test? There are two cases that we determine is a pass.
+We must determine what constitutes a passed or failed test. There are two cases that we determine is a pass:
 1. The user is able to find recall information for their vehicle it is a pass. 
 2. The user was able to determine that their vehicle does not have any recalls. 
 
