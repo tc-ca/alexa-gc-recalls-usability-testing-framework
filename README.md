@@ -11,6 +11,7 @@ Our audience also includes those with disabilities.
 
 ## Plan the test
 **Determine what success or failure is**
+
 We must determine what constitutes a passed or failed test. There are two cases that we determine is a pass:
 1. The user is able to find recall information for their vehicle it is a pass. 
 2. The user was able to determine that their vehicle does not have any recalls. 
@@ -20,6 +21,7 @@ In our case if the user passes the test, how they got to the pass is important a
 A failure would be where someone thinks there isn't a recall when there is one. 
 
 **Get everything you need and do a test run**
+
 * Alexa device
 * Wireless hotspot 
 * Audio recording device when testing non-visual interfaces
@@ -30,10 +32,12 @@ A failure would be where someone thinks there isn't a recall when there is one.
 Once you have everything you need, perform a test run. Make sure the Alexa device is ready to go. Make sure the hotspot works. Ensure the recording device records. 
 
 **Prepare the script**
+
 Ensure you have all of the documents you’ll need during the test. In most cases once you have created it, you can reuse the same documents in future testing. 
 Since our Alexa skill is bilingual, ensure all documents are translated. 
 
 **Recruit participants**
+
 There are various ways to recruit participants for user testing. 
 * Family and friends outside of work
 * Work colleagues
@@ -42,6 +46,7 @@ There are various ways to recruit participants for user testing.
 We will require participants from both official languages. We also want to ensure that we test our skill with participants with disabilities.
 
 ## Run the test
+
 It is important to run a test pilot before the scheduled session is to take place. This is to catch any problems before hand and to ensure the scheduled testing goes off without any issues.The pilot should be run a day or two beforehand to give time if any larger issues (equipment failures, etc.) need to be fixed. 
 
 When running the test, ensure there is 1 moderator and 1 note taker. Ensure that the room is booked for longer than you need. Also it is a good idea to run multiple tests on the same day as you will have already set up the equipment. 
